@@ -1,7 +1,7 @@
 import React from 'react'
 import { useParams } from 'react-router-dom'
 import articleContent from './ArticalContent';
-import Articles from './components/Articles';
+import Articles from './components/Articles';                         
 import Notpage from './Notpage';
 function Article() {
     const {name} = useParams();

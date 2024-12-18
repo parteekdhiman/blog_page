@@ -1,6 +1,5 @@
 import React from 'react'
 import articleContent from './ArticalContent'
-
 import Articles from './components/Articles'
 function ArticalsList() {
   return (
